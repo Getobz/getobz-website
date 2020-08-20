@@ -1,5 +1,7 @@
 body{
     font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
     background-color: grey;
 }
 
@@ -13,8 +15,8 @@ header {
 
 .logo{
     float: right;
-    height: 95px;
-    width: 95px;
+    height: 80px;
+    width: 80px;
 }
 
 header .menu {
