@@ -8,17 +8,28 @@ body{
 header {
     height: 80px;
     width: 100%;
-    background-color: white;
+    background-color: #222aba;
+}
+
+.logo{
+    float: right;
+    height: 95px;
+    width: 95px;
 }
 
 header .menu {
+    display: flex;
+    height: 100%;
     text-align: center;
 }
 
+header .menu ul .button {
+    margin-top: 25px;
+}
+
 header .menu ul {
+    margin: auto;
     list-style-type: none;
-    margin-top: 0;
-    padding: 0;
 }
 
 header .menu ul li {
@@ -28,7 +39,7 @@ header .menu ul li {
 
 header .menu ul li a {
     text-decoration: none;
-    color: #33569d;
+    color: white;
 }
 
 header .menu ul li a:hover {
