@@ -25,10 +25,6 @@ header .menu {
     text-align: center;
 }
 
-header .menu ul .button {
-    margin-top: 25px;
-}
-
 header .menu ul {
     margin: auto;
     list-style-type: none;
@@ -67,7 +63,7 @@ header .menu li {
     color: white;
     text-transform: uppercase;
     margin: 0;
-    padding-top: 50px;
+    padding-top: 70px;
 }
 
 .container h2 {
@@ -78,24 +74,6 @@ header .menu li {
     color: white;
 }
 
-.container .primary-button {
-    background-color: rgb(255, 255, 255); 
-    color: black;
-    transition-duration: 0.5s;
-    border: none;
-    border-radius: 6px;
-    margin-top: 20px;
-    height: 40px;
-    font-size: 20px;
-}
-
-.container .primary-button:hover {
-    transform: scale(1.1);
-    background: linear-gradient(90deg, rgba(34,42,186,1) 0%, rgba(37,46,210,1) 50%, rgba(41,51,235,1) 100%); 
-    color: white;
-    border: 1px solid white;
-}
-
 /* PRESENTATION */
 
 .presentation {
@@ -104,7 +82,6 @@ header .menu li {
     background: rgb(34,42,186);
     background: linear-gradient(90deg, rgba(34,42,186,1) 0%, rgba(37,46,210,1) 50%, rgba(41,51,235,1) 100%); 
     width: 100%;
-    height: 45vh;
 }
 
 .presentation .image-presentation {
@@ -120,7 +97,6 @@ header .menu li {
     padding-left: 10px;
     margin-left: 80px;
     margin-right: 10%;
-    width: 100%;
 }
 
 .border {
@@ -129,5 +105,15 @@ header .menu li {
     display: block;
     border: 2px solid white;
     border-radius: 10px;
-    height: 90%;
+    height: 55vh;
+}
+
+.presentation .texte-presentation .discord-foutucode {
+    text-decoration: none;
+    color: rgb(0, 253, 63);
+}
+
+.presentation .texte-presentation .discord-foutucode:hover {
+    text-decoration: none;
+    color: rgb(0, 253, 63);
 }
