@@ -1,10 +1,27 @@
-﻿# getobz-website
+# Getobz Portfolio
 
-Ceci est un projet personnel, il me sert à apprendre les langages suivants:
+Vous retrouvez ici le contenu de mon premier portfolio.
 
+## Quel langage est utilisé ?
+
+```
 - HTML
 - CSS
 - JavaScript
 - PHP
+```
 
-J'apprend le développement grâce à la communauté de Foutu Code et aux documentations qui sont à ma disposition.
+### Quel est le but de la création de ce portfolio ?
+
+Actuellement en train d'apprendre le front-end, j'ai décidé de créer mon premier portfolio afin d'apprendre des nouveautés et les mettre en application sur mon site internet.
+
+## Créé avec :
+
+* [HTML](https://developer.mozilla.org/fr/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/fr/docs/Web/CSS)
+* [JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+* [PHP](https://www.php.net/)
+
+## Authors
+
+* **Getobz** - *Initial work* - [Getobz](https://github.com/Getobz)
